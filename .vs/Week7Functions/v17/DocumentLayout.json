@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elisa\\source\\repos\\Week7Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D029C0D2-254B-4928-AA0F-65C7DC6B23F0}|DisplayArrayElementsFunction\\DisplayArrayElementsFunction.csproj|c:\\users\\elisa\\source\\repos\\week7functions\\displayarrayelementsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D029C0D2-254B-4928-AA0F-65C7DC6B23F0}|DisplayArrayElementsFunction\\DisplayArrayElementsFunction.csproj|solutionrelative:displayarrayelementsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5F1D01-CAF9-4227-8A6A-E410975DD103}|CalculatorWithFunctions\\CalculatorWithFunctions.csproj|c:\\users\\elisa\\source\\repos\\week7functions\\calculatorwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5F1D01-CAF9-4227-8A6A-E410975DD103}|CalculatorWithFunctions\\CalculatorWithFunctions.csproj|solutionrelative:calculatorwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE942FA-03BD-4C51-89B2-81A51CA33EA3}|Week7Functions\\Week7Functions.csproj|c:\\users\\elisa\\source\\repos\\week7functions\\week7functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE942FA-03BD-4C51-89B2-81A51CA33EA3}|Week7Functions\\Week7Functions.csproj|solutionrelative:week7functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elisa\\source\\repos\\Week7Functions\\DisplayArrayElementsFunction\\Program.cs",
+              "RelativeDocumentMoniker": "DisplayArrayElementsFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\elisa\\source\\repos\\Week7Functions\\DisplayArrayElementsFunction\\Program.cs",
+              "RelativeToolTip": "DisplayArrayElementsFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:07:38.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elisa\\source\\repos\\Week7Functions\\CalculatorWithFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorWithFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\elisa\\source\\repos\\Week7Functions\\CalculatorWithFunctions\\Program.cs",
+              "RelativeToolTip": "CalculatorWithFunctions\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:36:56.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elisa\\source\\repos\\Week7Functions\\Week7Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Week7Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\elisa\\source\\repos\\Week7Functions\\Week7Functions\\Program.cs",
+              "RelativeToolTip": "Week7Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:11:25.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
